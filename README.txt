@@ -1,29 +1,29 @@
 [Usage]
-1. mavenÇ≈é¿çs
+1. maven„ÅßÂÆüË°å
   mvn clean test
-  -> target/surefire-reports îzâ∫Ç…ÉeÉXÉgåãâ (JUnitå›ä∑å`éÆ)Ç™èoóÕÇ≥ÇÍÇÈ
+  -> target/surefire-reports ÈÖç‰∏ã„Å´„ÉÜ„Çπ„ÉàÁµêÊûú(JUnit‰∫íÊèõÂΩ¢Âºè)„ÅåÂá∫Âäõ„Åï„Çå„Çã
 
-2. EclipseÇ≈é¿çs
-1) Groovy-EclipseÉvÉâÉOÉCÉìì±ì¸ (èââÒÇÃÇ›)
-  éËèá -> https://github.com/groovy/groovy-eclipse/wiki
-2) ÉeÉXÉgé¿çs
-  src/test/groovy/a.b.c ÇâEÉNÉäÉbÉN > é¿çs > JUnitÉeÉXÉg
+2. Eclipse„ÅßÂÆüË°å
+1) Groovy-Eclipse„Éó„É©„Ç∞„Ç§„É≥Â∞éÂÖ• (ÂàùÂõû„ÅÆ„Åø)
+  ÊâãÈ†Ü -> https://github.com/groovy/groovy-eclipse/wiki
+2) „ÉÜ„Çπ„ÉàÂÆüË°å
+  src/test/groovy/a.b.c „ÇíÂè≥„ÇØ„É™„ÉÉ„ÇØ > ÂÆüË°å > JUnit„ÉÜ„Çπ„Éà
 
-Å¶ à”ê}ìIÇ…ÉeÉXÉgé∏îsÇ∑ÇÈÉPÅ[ÉXÇ∆ÇµÇƒÇ¢Ç‹Ç∑
+‚Äª ÊÑèÂõ≥ÁöÑ„Å´„ÉÜ„Çπ„ÉàÂ§±Êïó„Åô„Çã„Ç±„Éº„Çπ„Å®„Åó„Å¶„ÅÑ„Åæ„Åô
 
 [Other tips]
-1. Eclipseè„Ç≈ä˘ë∂ÉvÉçÉWÉFÉNÉgÇGroovyÉvÉçÉWÉFÉNÉgÇ…ïœä∑ ÅcÉvÉçÉWÉFÉNÉgâEÉNÉäÉbÉN > ç\ê¨ > GroovyÉvÉçÉWÉFÉNÉg Ç…ïœä∑
-2. Eclipseè„Ç≈SpecêVãKçÏê¨ ÅcêVãK > GroovyÉNÉâÉX
+1. Eclipse‰∏ä„ÅßÊó¢Â≠ò„Éó„É≠„Ç∏„Çß„ÇØ„Éà„ÇíGroovy„Éó„É≠„Ç∏„Çß„ÇØ„Éà„Å´Â§âÊèõ ‚Ä¶„Éó„É≠„Ç∏„Çß„ÇØ„ÉàÂè≥„ÇØ„É™„ÉÉ„ÇØ > ÊßãÊàê > Groovy„Éó„É≠„Ç∏„Çß„ÇØ„Éà „Å´Â§âÊèõ
+2. Eclipse‰∏ä„ÅßSpecÊñ∞Ë¶è‰ΩúÊàê ‚Ä¶Êñ∞Ë¶è > Groovy„ÇØ„É©„Çπ
 
 [More info]
-1.
+1. Project Site
 http://spockframework.org/
 
-1. Spock example @Github
+2. Spock example @Github
 https://github.com/spockframework/spock-example
 
-2. Spockè–âÓÉXÉâÉCÉh @Slideshare
+3. SpockÁ¥π‰ªã„Çπ„É©„Ç§„Éâ @Slideshare
 https://www.slideshare.net/bikisuke/spocks-world
 https://www.slideshare.net/touchezdubois/introduction-to-spock
 
-à»è„
+‰ª•‰∏ä
